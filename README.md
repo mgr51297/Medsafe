@@ -1,3 +1,5 @@
 ## Medsafe
 
 ANDROID PROJECT
+
+STARTUP
