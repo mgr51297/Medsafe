@@ -1,5 +1,4 @@
 # Medsafe
 
 ANDROID PROJECT
-
 STARTUP
